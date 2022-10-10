@@ -5,7 +5,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 
 class UserTest {
-    
+
     @DisplayName("패스 워드를 초기화 한다.")
     @Test
     void passwordTest() {
